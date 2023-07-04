@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PREDATE_inDrone_Top_V2_0.PcbDoc   1/7/2023  11:34:29 pµ
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PREDATE_inDrone_Top_V2_0.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.701mm)                                           Round             20        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      30mil (0.749mm)                                           Round             563       PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T5      33mil (0.831mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T6      34mil (0.851mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T7      39mil (1.001mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T8      40mil (1.016mm)                                           Round             100       PTH        0.00inch (0.00mm)
+T9      40mil (1.021mm)                                           Round             20        PTH        0.00inch (0.00mm)
+T10     41mil (1.049mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T11     43mil (1.1mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T12     50mil (1.26mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T13     51mil (1.3mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T14     55mil (1.4mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T15     73mil (1.859mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T16     118mil (3mm)                                              Round             16        PTH        0.00inch (0.00mm)
+T17     301mil (7.65mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T18     32mil (0.8mm)                                             Round             15        NPTH       0.00inch (0.00mm)
+T19     120mil (3.048mm)                                          Round             6         NPTH       0.00inch (0.00mm)
+T20     172mil (4.369mm)                                          Round             12        NPTH       0.00inch (0.00mm)
+T21     190mil (4.826mm)                                          Round             6         NPTH       0.00inch (0.00mm)
+T22     276mil (7mm)                                              Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              836
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\George Salagiannis\Documents\PhD\Projects\PREDATE\Schematics\PREDATE_Ground_Station_V3_0\PREDATE_Ground_Station_PCB_V3_0.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=98.43
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
